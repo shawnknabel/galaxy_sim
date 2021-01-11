@@ -1,0 +1,2 @@
+num_particles,num_steps,timestep,steps_per_epoch,area_size,init_rot,mean_rand_vel
+25000,25000,0.000100,1000,40000,0.150000,0.000000
